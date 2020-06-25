@@ -1,2 +1,1 @@
-# hello-word
-用于交流技术
+hello everyone，this is my github 
